@@ -4,6 +4,14 @@
 
 ---
 
+## 📝 Parte 0: Quiz Teórico (20 puntos)
+
+Los primeros 20 minutos de la sesión son un quiz de fundamentos (chips,
+arquitecturas, abstracción digital, lógica combinacional y configuración de
+periféricos). Ver [`QUIZ.md`](QUIZ.md).
+
+---
+
 ## ✅ Parte 1: Actividades Técnicas a Realizar (80 puntos)
 
 ### 1. Mensaje de bienvenida personalizado \[10 puntos\]
